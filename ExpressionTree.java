@@ -21,9 +21,9 @@ import javafx.scene.text.FontWeight;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
-//Marinos Dakis 23713449
+//Marinos Dakis 
 
-public class ET23713449<T> extends Application {
+public class ET<T> extends Application {
 	@Override
 	public void start(Stage primaryStage) {
 
