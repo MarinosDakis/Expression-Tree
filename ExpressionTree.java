@@ -1,7 +1,6 @@
 
 import java.util.ArrayList;
 import java.util.Stack;
-
 import javafx.application.Application;
 import javafx.event.EventHandler;
 import javafx.geometry.Insets;
